@@ -1,0 +1,15 @@
+C:\Users\hasib\OneDrive\Masaüstü\Patika C#101 Ödevlendirmeleri\Telefon Repheri\bin\Debug\net8.0\Telefon Rehberi.exe
+C:\Users\hasib\OneDrive\Masaüstü\Patika C#101 Ödevlendirmeleri\Telefon Repheri\bin\Debug\net8.0\Telefon Rehberi.deps.json
+C:\Users\hasib\OneDrive\Masaüstü\Patika C#101 Ödevlendirmeleri\Telefon Repheri\bin\Debug\net8.0\Telefon Rehberi.runtimeconfig.json
+C:\Users\hasib\OneDrive\Masaüstü\Patika C#101 Ödevlendirmeleri\Telefon Repheri\bin\Debug\net8.0\Telefon Rehberi.dll
+C:\Users\hasib\OneDrive\Masaüstü\Patika C#101 Ödevlendirmeleri\Telefon Repheri\bin\Debug\net8.0\Telefon Rehberi.pdb
+C:\Users\hasib\OneDrive\Masaüstü\Patika C#101 Ödevlendirmeleri\Telefon Repheri\obj\Debug\net8.0\Telefon Rehberi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hasib\OneDrive\Masaüstü\Patika C#101 Ödevlendirmeleri\Telefon Repheri\obj\Debug\net8.0\Telefon Rehberi.AssemblyInfoInputs.cache
+C:\Users\hasib\OneDrive\Masaüstü\Patika C#101 Ödevlendirmeleri\Telefon Repheri\obj\Debug\net8.0\Telefon Rehberi.AssemblyInfo.cs
+C:\Users\hasib\OneDrive\Masaüstü\Patika C#101 Ödevlendirmeleri\Telefon Repheri\obj\Debug\net8.0\Telefon Rehberi.csproj.CoreCompileInputs.cache
+C:\Users\hasib\OneDrive\Masaüstü\Patika C#101 Ödevlendirmeleri\Telefon Repheri\obj\Debug\net8.0\Telefon Rehberi.sourcelink.json
+C:\Users\hasib\OneDrive\Masaüstü\Patika C#101 Ödevlendirmeleri\Telefon Repheri\obj\Debug\net8.0\Telefon Rehberi.dll
+C:\Users\hasib\OneDrive\Masaüstü\Patika C#101 Ödevlendirmeleri\Telefon Repheri\obj\Debug\net8.0\refint\Telefon Rehberi.dll
+C:\Users\hasib\OneDrive\Masaüstü\Patika C#101 Ödevlendirmeleri\Telefon Repheri\obj\Debug\net8.0\Telefon Rehberi.pdb
+C:\Users\hasib\OneDrive\Masaüstü\Patika C#101 Ödevlendirmeleri\Telefon Repheri\obj\Debug\net8.0\Telefon Rehberi.genruntimeconfig.cache
+C:\Users\hasib\OneDrive\Masaüstü\Patika C#101 Ödevlendirmeleri\Telefon Repheri\obj\Debug\net8.0\ref\Telefon Rehberi.dll
